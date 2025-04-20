@@ -150,4 +150,7 @@
     width: 25px;
     height: 25px;
   }
+  .list-container li {
+    padding: 5px 70px 5px 50px;;
+  }
 }
